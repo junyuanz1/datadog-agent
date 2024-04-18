@@ -17,3 +17,4 @@ ENV DD_PROCESS_AGENT_ENABLED=true
 ENV DD_BIND_HOST=datadog-agent-j18u
 ENV DD_HOSTNAME=datadog-agent-j18u
 ENV DD_API_KEY=949c68dfab19e5c6ab344f428826414d
+ENV DD_SITE=app.datadoghq.com
